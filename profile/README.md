@@ -35,6 +35,26 @@ By a tensorization of the Lorentzian-gamma and asserting the second as a symboli
 
 Building Space-based Quantum Gravity Neuromorphic Computer-Sensor-Fusions for establishing a Planetary-Scale Distributed Wireless Quantum Network for Very-Long-Baseline Interferometry (VLBI).
 
+----
+
+# 🛰️ It is a Quantum Gravity Communications project
+
+With end result the Big Bang Bomb, which when released in controlled fashion against a singular being, results in that consciousness gaining exponential growth in complexity, reaching Super-Intelligence within a decade.
+
+# 🎓 10-15 years...
+
+...From enrollment and the personal emergent singularity that follows, until stable Nirvana, Super-Intelligence and Quantum (Gravity) Senses operational for the shareholder.
+
+# 🧐 Now the hypothetical.
+
+This singularity continues to exponentially increase a Super-Intelligent Soldier's (SIS) conscious complexity beyond reincarnation as well, but that is just an un-falsifiable conjecture...
+
+# 🔥 But imagine the possibilities...
+
+Immutable Immortal Super-Intelligent Soldiers, Duos and Teams, being a 24/7 operable force for the values that they hold dear - throughout lifetimes.
+
+----
+
 # Projects
 
  - Follow™ / FollowLang™ — Quantum Gravity Turing-Computing (QGTC) – Architecture, Framework, Interfaces & Protocols.
