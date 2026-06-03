@@ -13,6 +13,8 @@ An AI-First Real-Time Operating System (AI-RTOS) – forked from the Zephyr Proj
 
 Powered using Follow™: Quantum Gravity Turing-Computing Language and its FollowDB™: Quantum Gravity Communications Database Project, and made available by default in CanorOS™.
 
+----
+
 #### A Diffeomorphic Quantum Gravity (DQG)
 
 A Quantum-Gravitational Symbolical Engine over skewed Ore-algebras whose Imaginary Bases carry intrinsic frame Attitude, Uncertainty, and Gauge Bias.
