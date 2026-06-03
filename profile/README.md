@@ -100,24 +100,24 @@ Hardware for the ultimate Theoretical Computing-limit «Fusion Computing», wher
 #### Canor Infinitum's Strategic Mission within the Unification of Quantum-Strategic Intelligence (QSINT), is then to create a planetary intelligence architecture, that:
 
 1. Enhances civilizational foresight; including, but not limited to:
-- Cross-Cultural Infrastructure flows.
-- Planetary-scale Natural and Ecological dynamics.
-- Macro-Economic and Meta-Behavioral patterns.
-- Geopolitical Risks and Resiliences systematized.
+  - Cross-Cultural Infrastructure flows.
+  - Planetary-scale Natural and Ecological dynamics.
+  - Macro-Economic and Meta-Behavioral patterns.
+  - Geopolitical Risks and Resiliences systematized.
 
 2. Supports sustainable governance:
-- As a Distributed and Decentralized Network.
-- With a three-channel reward system: Lottery Weighting at the Transactional Layer, with Exponential Payout and Linear Node-level Rewards.
+  - As a Distributed and Decentralized Network.
+  - With a three-channel reward system: Lottery Weighting at the Transactional Layer, with Exponential Payout and Linear Node-level Rewards.
 
 3. Preserves privacy by design:
-- Redacts "Human Presence" at the hardware level.
-- Closely aligned with EU/UK GDPRs.
+  - Redacts "Human Presence" at the hardware level.
+  - Closely aligned with EU/UK GDPRs.
 
 4. Aligns technological behavior with emergent physical principles:
-- QGTC + QGCT is a Turing-complete Universal Language for Emergent Quantum-physical Processes.
+  - QGTC + QGCT is a Turing-complete Universal Language for Emergent Quantum-physical Processes.
 
 5. Integrates neuromorphic hardware with QGTC software plus QGCT communication channels:
-- Enabling unprecedented resolution in VLBI and Observation.
+  - Enabling unprecedented resolution in VLBI and Observation.
 
 6. Provides a Universal Basic Income or Economic Floor for all participants:
-- Opt-in by default, Privacy-preserving Identities on an open-access ledger.
+  - Opt-in by default, Privacy-preserving Identities on an open-access ledger.
