@@ -9,7 +9,7 @@ Follow™ - A Reactive Paradigm, Symbolic Meta-Programming Language-Suite and it
 
 An AI-First Real-Time Operating System (AI-RTOS) – forked from the Zephyr Project by the Linux Foundation, and given a Graphical User Interface update.
 
-## AetherAI™ & Envoy™: An Agentic AI - Personal Assistant
+## AetherAI™ & Envoy™: An Agentic AI - Personal Assistant & Combined Anticheat / Antivirus
 
 Powered using Follow™: Quantum Gravity Turing-Computing Language and its FollowDB™: Quantum Gravity Communications Database Project, and made available by default in CanorOS™.
 
