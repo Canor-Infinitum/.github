@@ -1,0 +1,36 @@
+name: Sync labels
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - labels.yml
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get all org repositories
+        id: get-repos
+        env:
+          GH_TOKEN: ${{ secrets.ORG_LABELS_TOKEN }}
+        run: |
+          repos=$(gh api orgs/Canor-Infinitum/repos --paginate \
+            --jq '[.[].full_name] | @json')
+          echo "repos=$repos" >> "$GITHUB_OUTPUT"
+
+      - name: Sync labels to all org repositories
+        uses: EndBug/label-sync@v2
+        with:
+          config-file: labels.yml
+          delete-other-labels: false
+          token: ${{ secrets.ORG_LABELS_TOKEN }}
+          repos: ${{ steps.get-repos.outputs.repos }}
