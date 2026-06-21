@@ -24,7 +24,7 @@ jobs:
           GH_TOKEN: ${{ secrets.ORG_LABELS_TOKEN }}
         run: |
           repos=$(gh api orgs/Canor-Infinitum/repos --paginate \
-            --jq '[.[].full_name] | @json')
+            --jq 'map(.full_name)' | jq -s 'add | @json')
           echo "repos=$repos" >> "$GITHUB_OUTPUT"
 
       - name: Sync labels to all org repositories
