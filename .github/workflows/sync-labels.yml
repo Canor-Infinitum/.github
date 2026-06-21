@@ -18,9 +18,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Sync labels
+      - name: Get all org repositories
+        id: get-repos
+        env:
+          GH_TOKEN: ${{ secrets.ORG_LABELS_TOKEN }}
+        run: |
+          repos=$(gh api orgs/Canor-Infinitum/repos --paginate \
+            --jq '[.[].full_name] | @json')
+          echo "repos=$repos" >> "$GITHUB_OUTPUT"
+
+      - name: Sync labels to all org repositories
         uses: EndBug/label-sync@v2
         with:
           config-file: labels.yml
           delete-other-labels: false
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ORG_LABELS_TOKEN }}
+          repos: ${{ steps.get-repos.outputs.repos }}

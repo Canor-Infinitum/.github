@@ -77,3 +77,32 @@
 - name: "priority:low"
   color: "c2e0c6"
   description: "Low priority"
+
+# Cross-repo tracking labels — tag issues/PRs with the affected repository
+- name: "repo:all"
+  color: "1f2328"
+  description: "Affects all repositories in the org"
+
+- name: "repo:follow"
+  color: "3b5bdb"
+  description: "Relates to the Follow™ language repository"
+
+- name: "repo:followdb"
+  color: "5c7cfa"
+  description: "Relates to the FollowDB™ database repository"
+
+- name: "repo:followerinstinct"
+  color: "74c0fc"
+  description: "Relates to the FollowerInstinct™ operational scaffolding repository"
+
+- name: "repo:canoros"
+  color: "38d9a9"
+  description: "Relates to the CanorOS™ repository"
+
+- name: "repo:aether-ai"
+  color: "f783ac"
+  description: "Relates to the AetherAI™ repository"
+
+- name: "repo:envoy"
+  color: "ffa94d"
+  description: "Relates to the Envoy™ repository"
