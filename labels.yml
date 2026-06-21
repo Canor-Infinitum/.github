@@ -1,0 +1,79 @@
+# Phase labels — aligned with ROADMAP.md phases
+- name: "phase:foundation"
+  color: "0052cc"
+  description: "Phase 1 — Foundation: baseline contribution and governance structure"
+
+- name: "phase:automation"
+  color: "6f42c1"
+  description: "Phase 2 — Automation: reduce manual work and standardise repo maintenance"
+
+- name: "phase:governance"
+  color: "e65100"
+  description: "Phase 3 — Governance: predictable and safe merges and releases"
+
+- name: "phase:scale"
+  color: "2ea44f"
+  description: "Phase 4 — Scale: reusable processes across all repositories"
+
+# Work-type labels
+- name: "type:docs"
+  color: "d4e5ff"
+  description: "Documentation changes"
+
+- name: "type:infra"
+  color: "bfd4f2"
+  description: "Infrastructure changes"
+
+- name: "type:security"
+  color: "e11d48"
+  description: "Security-related changes"
+
+- name: "type:workflow"
+  color: "a2eeef"
+  description: "GitHub Actions or CI/CD changes"
+
+- name: "type:policy"
+  color: "f9d0c4"
+  description: "Policy or governance file changes"
+
+- name: "type:maintenance"
+  color: "e4e669"
+  description: "Routine maintenance and housekeeping"
+
+# Status labels
+- name: "status:blocked"
+  color: "b60205"
+  description: "Blocked and cannot proceed"
+
+- name: "status:needs-review"
+  color: "fbca04"
+  description: "Awaiting review"
+
+- name: "status:in-progress"
+  color: "0075ca"
+  description: "Actively being worked on"
+
+- name: "status:ready"
+  color: "0e8a16"
+  description: "Ready to merge or act on"
+
+- name: "status:backlog"
+  color: "ededed"
+  description: "Not yet started; in the backlog"
+
+# Priority labels
+- name: "priority:critical"
+  color: "b60205"
+  description: "Must be resolved immediately"
+
+- name: "priority:high"
+  color: "d93f0b"
+  description: "High priority"
+
+- name: "priority:medium"
+  color: "fbca04"
+  description: "Medium priority"
+
+- name: "priority:low"
+  color: "c2e0c6"
+  description: "Low priority"
